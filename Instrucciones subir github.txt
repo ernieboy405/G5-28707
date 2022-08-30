@@ -1,6 +1,10 @@
+cd ..    ---Para regresarte de la carpeta donde estás
+
+
+
 git status
 
-git add.
+git add .
 
 git commit -m "descripción commit"
 
