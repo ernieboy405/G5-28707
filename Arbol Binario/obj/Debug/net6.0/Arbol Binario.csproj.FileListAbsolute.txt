@@ -1,0 +1,15 @@
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\bin\Debug\net6.0\Arbol Binario.exe
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\bin\Debug\net6.0\Arbol Binario.deps.json
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\bin\Debug\net6.0\Arbol Binario.runtimeconfig.json
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\bin\Debug\net6.0\Arbol Binario.dll
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\bin\Debug\net6.0\Arbol Binario.pdb
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.csproj.AssemblyReference.cache
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.AssemblyInfoInputs.cache
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.AssemblyInfo.cs
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.csproj.CoreCompileInputs.cache
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.dll
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\refint\Arbol Binario.dll
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.pdb
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\Arbol Binario.genruntimeconfig.cache
+E:\Semestre 5\Estructura de datos\Arbol binario proyecto\Arbol Binario\obj\Debug\net6.0\ref\Arbol Binario.dll
